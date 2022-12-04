@@ -16,9 +16,9 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="hhttps://www.linkedin.com/in/luciano-messina-2910a2243/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablo-canavesi" height="40" width="50" /></a>
+<a href="hhttps://www.linkedin.com/in/luciano-messina-2910a2243/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucianomessina" height="40" width="50" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopezf&show_icons=true&locale=en&layout=compact" alt="marcolopezf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianomessina&show_icons=true&locale=en&layout=compact" alt="lucianomessina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolopezf&show_icons=true&locale=en" alt="marcolopezf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianomessina&show_icons=true&locale=en" alt="lucianomessina" /></p>

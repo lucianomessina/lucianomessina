@@ -19,6 +19,6 @@
 <a href="hhttps://www.linkedin.com/in/luciano-messina-2910a2243/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablo-canavesi" height="40" width="50" /></a>
 </p>
 
-<a href="https://github.com/lucianomessina">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablocana&theme=radical&layout=compact" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopezf&show_icons=true&locale=en&layout=compact" alt="marcolopezf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolopezf&show_icons=true&locale=en" alt="marcolopezf" /></p>

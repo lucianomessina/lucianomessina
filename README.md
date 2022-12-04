@@ -8,8 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianomessina" alt="lucianomessina" /></a> </p>
 
 - 🔭 I’m currently working on Personal Portfolio
+- 
 - 🌱 I’m currently learning MongoDB, Node.js, React Native
+- 
 - 📫 How to reach me: messinaluciano453@gmail.com
+- 
 - ⚡ Fun fact: I lived in 3 different countries
 <!--
 *Luciano-Messina/Luciano-Messina* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

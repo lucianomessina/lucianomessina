@@ -3,6 +3,10 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <p>A passionate about technology and Full Stack developer from Argentina 🇦🇷, I'm a very sociable person that love's TeamWork and learn very fast! I just finished SoyHenry Bootcamp., and looking for new and passionate challenges in my professional career.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianomessina&label=Profile%20views&color=0e75b6&style=flat" alt="lucianomessina" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianomessina" alt="lucianomessina" /></a> </p>
+
 - 🔭 I’m currently working on Personal Portfolio
 - 🌱 I’m currently learning MongoDB, Node.js, React Native
 - 📫 How to reach me: messinaluciano453@gmail.com
